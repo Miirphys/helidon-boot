@@ -1,8 +1,9 @@
 # Helidon && GraalVM on Amazon Linux 2023 for Arm 
 
-GraalVM is a giant leap for Java applications in the cloud. It has completely revamped the ecosystem and reignited my interest for Java in today's internet world. In this example, I implement Oracle's Helidon SE, which is a high-performance framework in the style of Node.js, on an Amazon Linux 2023 image.
+GraalVM is a giant leap for Java applications in the cloud. It has completely revamped the ecosystem and reignited my interest for Java in today's internet world. 
+In this example, I implement Oracle's Helidon SE, which is a high-performance framework in the style of Node.js, on an Amazon Linux 2023 image.
 
-This sample specifically targets Amazon Graviton , and build a docker image based on Amazon Linux 2023.
+Unless you decide to build your web APIs in C/C++, I am not aware of any technology currently that brings so much in terms of performance.
 
 ## Environment
 
