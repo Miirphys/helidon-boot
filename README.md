@@ -1,10 +1,8 @@
-# helidon-boot
+# Helidon && GraalVM on Amazon Linux 2023 for Arm 
 
-Sample Helidon SE project that includes multiple REST operations.
+GraalVM is a giant leap for Java applications in the cloud. It has completely revamped the ecosystem and reignited my interest for Java in today's internet world. In this example, I implement Oracle's Helidon SE, which is a high-performance framework in the style of Node.js, on an Amazon Linux 2023 image.
 
-This sample specifically targets ARM environments (aarch64) such as Amazon Graviton.
-
-It builds a docker image based on Amazon Linux 2023.
+This sample specifically targets Amazon Graviton , and build a docker image based on Amazon Linux 2023.
 
 ## Environment
 
